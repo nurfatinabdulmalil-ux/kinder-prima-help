@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><style name="Theme.KinderPrimaHelp" parent="Theme.AppCompat.Light.NoActionBar"><item name="android:colorAccent">#C61D2F</item><item name="android:statusBarColor">#C61D2F</item><item name="android:navigationBarColor">#FFFFFF</item></style></resources>

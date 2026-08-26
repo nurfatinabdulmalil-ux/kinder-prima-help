@@ -1,0 +1,16 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Signing secrets and local credentials
+*.jks
+*.keystore
+keystore.properties
+.env
