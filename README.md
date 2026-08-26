@@ -2,6 +2,12 @@
 
 Kinder Prima Help is an offline-first learning companion for Year 1 pupils. It includes interactive exercises, subject progress tracking, encouragement, parent-friendly reports, and a playful 3D learning interface.
 
+## 3D motion experience
+
+The learning interface uses original CSS-only 3D motion designed for young learners. The dashboard features a layered study desk with books, a screen, pencil, sticky note, and floating learning orbs. The objects respond gently to pointer movement for depth, while cards tilt slightly on desktop to feel tactile and playful.
+
+The opening screen also includes an animated 3D ABC book with floating stars. All motion is offline, uses no copied external artwork, and automatically turns off for devices that request **Reduce motion**. On smaller screens, the decorative 3D elements reduce or hide so that reading and learning content stays clear.
+
 ## What is included
 
 - Standalone web edition: `KinderPrimaHelp_eStudyKit_Year1_v2026-08-25.html`
