@@ -8,6 +8,21 @@ This project helps young pupils practise Year 1 learning activities in a friendl
 
 Pupils can choose a subject, answer practice questions, receive instant feedback, collect progress, and revisit topics that need more practice. Parents or teachers can review the locally saved progress report.
 
+## How learning flows
+
+```mermaid
+flowchart LR
+    A[Open Kinder Prima Help] --> B[Choose pupil profile]
+    B --> C[Pick a subject and topic]
+    C --> D[Answer interactive questions]
+    D --> E{Answer correct?}
+    E -->|Yes| F[Feedback, XP and progress]
+    E -->|Try again| G[Explanation and revision]
+    F --> H[Progress saved on the device]
+    G --> H
+    H --> I[Parent or teacher report]
+```
+
 ## How to use it
 
 ### Web version
